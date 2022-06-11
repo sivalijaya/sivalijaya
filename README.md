@@ -9,7 +9,7 @@ sivalijaya/sivalijaya is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-## Hi! I'm Sivalijaya Fernedi Jordan
+# Hi! I'm Sivalijaya Fernedi Jordan
 ### Computer Science Student at Bina Nusantara University
 #### Here are some programming languages that I familiar with
 - C
